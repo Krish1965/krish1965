@@ -11,5 +11,5 @@ Python (Pandas, NumPy, Matplotlib) | SQL | Microsoft Excel | Power BI |.
 *   [Project 2 Title]: Brief description, highlighting the business impact.
 
 📫 How to Reach Me
-*   [LinkedIn Profile](your-LinkedIn-URL)
-*   [Personal Portfolio](your-portfolio-URL) (if applicable)
+*   https://www.linkedin.com/in/krishna-kumar6600/
+  

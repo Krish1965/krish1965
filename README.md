@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Krishna 👋
 
-<!--
-**Krish1965/krish1965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Data Analyst specializing in transforming raw data into clear, actionable insights. I leverage data visualization and statistical analysis to support data-driven decision-making.
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
+Python (Pandas, NumPy, Matplotlib) | SQL | Microsoft Excel | Power BI |.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Featured Projects
+*   [Project 1 Title]: Brief description of the project and the tools used.
+*   [Project 2 Title]: Brief description, highlighting the business impact.
+
+📫 How to Reach Me
+*   [LinkedIn Profile](your-LinkedIn-URL)
+*   [Personal Portfolio](your-portfolio-URL) (if applicable)
